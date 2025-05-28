@@ -7,7 +7,7 @@ Various CAD models collection for diamond anvil cell (DAC) users.
 
 ### Prerequisites
 
-- A CAD package supporting STEP/IGES (e.g. Autodesk Fusion, SolidWorks)  
+- A CAD package supporting STEP/STL (e.g. Autodesk Fusion, SolidWorks)  
 
 ### Downloading
 
